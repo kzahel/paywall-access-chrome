@@ -2,5 +2,10 @@
     "extName": {
         "message": "Artikel Paywall Zugriff",
         "description": "Der Name der Extension."
+    },
+    "extDescription": {
+        "message": "Ruf gratis Artikel auf, die sonst nur mit Abo verfügbar sind.",
+        "description": "Extension description."
     }
+
 }

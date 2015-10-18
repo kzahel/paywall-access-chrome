@@ -2,5 +2,9 @@
     "extName": {
         "message": "News Paywall Access",
         "description": "Extension name."
+    },
+    "extDescription": {
+        "message": "Easily access news articles behind paywalls",
+        "description": "Extension description."
     }
 }
