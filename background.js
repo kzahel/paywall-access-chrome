@@ -6,7 +6,7 @@ chrome.contextMenus.onClicked.addListener(function(info, tab) {
     if (info.linkUrl) {
         console.log('handling as link!')
         // context menu came from clicking on link...
-        chrome.runtime.sendMessage("adpfpconnigelofkfenblmdhbnlaafkg", {title:info.selectionText})
+        chrome.runtime.sendMessage("adpfpconnigelofkfenblmdhbnlaafkg", {title:info.selectionText || info.linkUrl})
     } else {
         chrome.runtime.sendMessage("adpfpconnigelofkfenblmdhbnlaafkg", {title:tab.title})
     }

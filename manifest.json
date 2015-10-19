@@ -1,7 +1,7 @@
 {
   "key":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhg9WuXM1UHpUuCfBfQ9XKgsZfxkLamDML7Bq4jqV0oiVTtEwOxPeQKJ33VBZUsFpq56od9nq3sJY94P4sD4GstDIAIdnPipog152MPh/bDg+AVzYuWqEtHYeTnF1CurlNmBs6d6/n8QAHQ/QeSVJ67tg7ZlOzMxATIVKFplC2GCzMOEwWZIW9b67UKXaieehlILCKIR77erRB96KU08ksXfktaeJRUZsub3YN2MhpBvkDCXamB/6feeLnR86V+MubfNaLoUASiMWjGKEzbJmwQkWf2GP0f6/68BIMkGSFfYF5oLI13rxbumXvvGJjmY6+rA4Q5XFLwq9bUVoPmPnhQIDAQAB",
   "name": "__MSG_extName__",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "manifest_version": 2,
   "description": "__MSG_extDescription__",
     "icons": { 
